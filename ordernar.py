@@ -18,7 +18,7 @@ def formatRuta(ruta):
 
 
 downloadsFolder = formatRuta(rutaActual) + '/'
-#  se organizaran los archivos donde ejecutes este scrip
+#  se organizaran los archivos donde ejecutes este script
 
 organized_files = downloadsFolder + '/ArchivosOrganizados'
 organized_filesImages = downloadsFolder + '/ArchivosOrganizados/ImagenesDescargadas'
