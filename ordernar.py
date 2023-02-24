@@ -71,7 +71,7 @@ if __name__ == "__main__":
         if extension in [".docx"]:
             os.rename(downloadsFolder + filename, organized_filesWord + '/' + filename)
 
-        if extension in [".txt", ".psd"]:
+        if extension in [".txt", ".psd", ".apk", ".vdf", ".rtf"]:
             os.rename(downloadsFolder + filename, organized_filesTxt + '/' + filename)
 
         if extension in [".pdf"]:
