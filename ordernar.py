@@ -81,3 +81,4 @@ if __name__ == "__main__":
 
 MessageBox.showwarning("Alerta",
     "Tus archivos estan organizados valio la pena verdad?.")
+    #Puedes personalizar tu alerta :D

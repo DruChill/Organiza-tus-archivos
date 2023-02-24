@@ -1,15 +1,20 @@
-Importante! (Si no sabes usar este escrip click aquí)
-- Tener instalado Python (No importa la versión)
-- Tener pip instalado
+Importante! Si no sabes usar este script click aquí (Proximamente
+subire un video en YouTube)
 
-Librerias necesarias solo necesaremos 2 (Opcional)
+📁 Recursos:
+
+- Tener instalado Python (No importa la versión).
+- Tener pip instalado.
+
+Librerias necesarias solo necesitaremos 2 (Opcional).
 -image
 -NO ME RECURDO Xd
 
-Como instalar Librerias abre la terminal de visual studio code con
+¿Como instalar Librerias en Visual Studio Code?
+Abre la terminal de visual studio code con
 Ctrl shift + ñ
 
-se abrira la terminal
+Se abrira la terminal
 escribe lo siguiente: pip install image
 
-cencillo verdad?
+facilito verdad?
