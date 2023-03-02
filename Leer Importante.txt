@@ -1,3 +1,5 @@
+Organizador de archivos con comprensor de imágenes sin perder calidad. (PROGRAMADOR)
+
 Importante! Si no sabes usar este script clic aquí (Próximamente
 Subiré un video en YouTube)
 
