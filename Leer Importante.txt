@@ -6,9 +6,8 @@ subire un video en YouTube)
 - Tener instalado Python (No importa la versión).
 - Tener pip instalado.
 
-Librerias necesarias solo necesitaremos 2 (Opcional).
+Librerias necesarias, solo necesitaremos 1.
 -image
--NO ME RECURDO Xd
 
 ¿Como instalar Librerias en Visual Studio Code?
 Abre la terminal de visual studio code con
@@ -17,4 +16,4 @@ Ctrl shift + ñ
 Se abrira la terminal
 escribe lo siguiente: pip install image
 
-facilito verdad?
+Facíl verdad?
