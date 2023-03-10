@@ -1,15 +1,21 @@
 # Organiza-tus-archivos
 Con este script podrás organizar tus archivos automáticamente. 
 
-Organizador de archivos (NO PROGRAMADOR)
-
-Importante! Si no sabes usar este script clic aquí (Próximamente
-Subiré un video en YouTube)
+Organizador de archivos con comprensor de imágenes sin perder calidad. (PROGRAMADOR)
 
 📁 Recursos:
-- Tener instalado Python (No importa la versión).
 
-Mover el archivo SCRIPT donde la carpeta que quieras ordenar tus archivos
-luego dar doble clic y automáticamente se organizaran tus archivos
+- Tener instalado Python (No importa la versión).
+- Tener pip instalado.
+
+Librerías necesarias, solo necesitaremos 1.
+-image
+
+¿Como instalar Librerías en Visual Studio Code?
+Abre la terminal de visual studio code con
+Ctrl shift + ñ
+
+Se abrirá la terminal
+escribe lo siguiente: pip install image
 
 ¿Fácil verdad?

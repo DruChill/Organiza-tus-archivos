@@ -49,10 +49,10 @@ if __name__ == "__main__":
         if extension in [".jpg", ".jpeg", ".png", ".gif", ".HEIC"]:
             os.rename(downloadsFolder + filename, organized_filesImages + '/' + filename)
 
-        if extension in [".mp3", ".flac", ".wap"]:
+        if extension in [".mp3", ".flac", ".wap", ".aif"]:
             os.rename(downloadsFolder + filename, organized_filesAudios + '/' + filename)
 
-        if extension in [".mp4", ".mov"]:
+        if extension in [".mp4", ".mov", ".mpg", ".wmv", ".rm"]:
             os.rename(downloadsFolder + filename, organized_filesVideos + '/' + filename)
 
         if extension in [".pptx"]:
@@ -61,7 +61,7 @@ if __name__ == "__main__":
         if extension in [".exe"]:
             os.rename(downloadsFolder + filename, organized_filesExe + '/' + filename)
 
-        if extension in [".rar", ".zip" ,".7z"]:
+        if extension in [".rar", ".zip", ".cab", ".arj", ".lzh", ".tar", ".gz", ".ace", ".uue", "bz2", ".jar", ".iso", ".z", "7z"]:
             os.rename(downloadsFolder + filename, organized_filesRar + '/' + filename)
 
         if extension in [".docx"]:
