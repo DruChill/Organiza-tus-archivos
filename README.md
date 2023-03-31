@@ -10,7 +10,7 @@ Organizador de archivos con comprensor de imágenes sin perder calidad. (PROGRAM
 
 📚 Librerías necesarias, solo necesitaremos una:
 
--image.
+- image.
 
 ***
 
