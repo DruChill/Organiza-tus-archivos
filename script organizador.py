@@ -62,7 +62,7 @@ if __name__ == "__main__":
         if extension in [".exe"]:
             os.rename(downloadsFolder + filename, organized_filesExe + '/' + filename)
 
-        if extension in [".rar", ".zip", ".cab", ".arj", ".lzh", ".tar", ".gz", ".ace", ".uue", "bz2", ".jar", ".iso", ".z", "7z"]:
+        if extension in [".rar", ".zip", ".cab", ".arj", ".lzh", ".tar", ".gz", ".ace", ".uue", "bz2", ".jar", ".iso", ".z", ".7z"]:
             os.rename(downloadsFolder + filename, organized_filesRar + '/' + filename)
 
         if extension in [".docx"]:
